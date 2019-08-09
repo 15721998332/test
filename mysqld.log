@@ -1,0 +1,179 @@
+2019-06-25T06:48:26.738796Z 0 [System] [MY-013169] [Server] /usr/sbin/mysqld (mysqld 8.0.16) initializing of server in progress as process 94520
+2019-06-25T06:48:48.502012Z 5 [Note] [MY-010454] [Server] A temporary password is generated for root@localhost: -nk(vws&8LmC
+2019-06-25T06:49:00.463447Z 0 [System] [MY-013170] [Server] /usr/sbin/mysqld (mysqld 8.0.16) initializing of server has completed
+2019-06-25T08:36:58.122004Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 997
+2019-06-25T08:37:00.667262Z 0 [Warning] [MY-000054] [Server] World-writable config file './auto.cnf' is ignored.
+2019-06-25T08:37:00.667385Z 0 [Warning] [MY-010107] [Server] World-writable config file './auto.cnf' has been removed.
+2019-06-25T08:37:00.667594Z 0 [Warning] [MY-010075] [Server] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: 668d7a68-9724-11e9-92e1-fa163e9e5190.
+2019-06-25T08:37:00.688960Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-06-25T08:37:00.726538Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.16'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2019-06-25T08:37:00.821994Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/run/mysqld/mysqlx.sock' bind-address: '::' port: 33060
+2019-06-25T08:43:58.712988Z 10 [Warning] [MY-010055] [Server] IP address '183.2.181.247' could not be resolved: Name or service not known
+2019-06-25T08:45:30.200792Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-06-25T08:45:31.476071Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 1347
+2019-06-25T08:45:32.084790Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-06-25T08:45:32.113782Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.16'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2019-06-25T08:45:32.230361Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/run/mysqld/mysqlx.sock' bind-address: '::' port: 33060
+2019-06-25T08:45:36.400159Z 8 [Warning] [MY-010055] [Server] IP address '183.2.181.247' could not be resolved: Name or service not known
+2019-06-25T09:16:35.552773Z 12 [Warning] [MY-010055] [Server] IP address '182.61.108.67' could not be resolved: Name or service not known
+2019-06-25T09:38:01.766707Z 74 [Warning] [MY-010055] [Server] IP address '123.249.3.146' could not be resolved: Name or service not known
+2019-06-25T13:08:44.736167Z 77 [Warning] [MY-010055] [Server] IP address '148.70.209.7' could not be resolved: Name or service not known
+2019-06-25T15:22:12.329396Z 78 [Warning] [MY-010055] [Server] IP address '111.230.65.24' could not be resolved: Name or service not known
+2019-06-25T15:49:49.811199Z 125 [Warning] [MY-010055] [Server] IP address '121.201.80.168' could not be resolved: Name or service not known
+2019-06-25T17:33:34.291659Z 126 [Warning] [MY-010057] [Server] IP address '92.118.160.33' has been resolved to the host name '92.118.160.33.netsystemsresearch.com', which resembles IPv4-address itself.
+2019-06-25T19:26:50.058858Z 135 [Warning] [MY-010055] [Server] IP address '139.198.189.137' could not be resolved: Name or service not known
+2019-06-26T03:49:10.539678Z 345 [Warning] [MY-010055] [Server] IP address '218.61.17.2' could not be resolved: Name or service not known
+2019-06-26T06:03:48.171120Z 346 [Warning] [MY-010055] [Server] IP address '192.144.204.132' could not be resolved: Name or service not known
+2019-06-26T07:31:44.297591Z 768 [Warning] [MY-010055] [Server] IP address '148.70.244.243' could not be resolved: Name or service not known
+2019-06-26T11:05:03.222571Z 892 [Warning] [MY-010055] [Server] IP address '47.148.131.40' could not be resolved: Name or service not known
+2019-06-26T12:14:20.228381Z 1055 [Warning] [MY-010056] [Server] Host name 'ecs-49-4-122-25.compute.hwclouds-dns.com' could not be resolved: Name or service not known
+2019-06-26T12:41:04.044222Z 1056 [Warning] [MY-010055] [Server] IP address '222.186.46.59' could not be resolved: Name or service not known
+2019-06-26T15:25:11.859028Z 1057 [Warning] [MY-010057] [Server] IP address '92.118.160.57' has been resolved to the host name '92.118.160.57.netsystemsresearch.com', which resembles IPv4-address itself.
+2019-06-26T16:22:06.921400Z 1058 [Warning] [MY-010056] [Server] Host name 'zg-0403-9.stretchoid.com' could not be resolved: Name or service not known
+2019-06-26T17:33:50.843164Z 1059 [Warning] [MY-010055] [Server] IP address '116.255.162.53' could not be resolved: Name or service not known
+2019-06-26T19:27:01.261345Z 1106 [Warning] [MY-010056] [Server] Host name 'zg-0301e-18.stretchoid.com' could not be resolved: Name or service not known
+2019-06-27T01:28:34.590659Z 1115 [Warning] [MY-010055] [Server] IP address '218.108.73.61' could not be resolved: Name or service not known
+2019-06-27T01:28:37.696885Z 1116 [Warning] [MY-010055] [Server] IP address '218.108.73.54' could not be resolved: Name or service not known
+2019-06-27T01:28:40.885488Z 1117 [Warning] [MY-010055] [Server] IP address '218.108.73.62' could not be resolved: Name or service not known
+2019-06-27T01:28:41.361239Z 1118 [Warning] [MY-010055] [Server] IP address '218.108.73.53' could not be resolved: Name or service not known
+2019-06-27T01:28:41.590818Z 1119 [Warning] [MY-010055] [Server] IP address '218.108.73.56' could not be resolved: Name or service not known
+2019-06-27T01:28:45.112753Z 1122 [Warning] [MY-010055] [Server] IP address '218.108.73.55' could not be resolved: Name or service not known
+2019-06-27T01:28:45.562150Z 1124 [Warning] [MY-010055] [Server] IP address '218.108.73.57' could not be resolved: Name or service not known
+2019-06-27T02:55:34.062788Z 1125 [Warning] [MY-010058] [Server] Hostname 'icsresearch6.plcscan.org' does not resolve to '188.138.125.155'.
+2019-06-27T06:28:32.706490Z 1130 [Warning] [MY-010055] [Server] IP address '66.79.173.8' could not be resolved: Name or service not known
+2019-06-27T14:46:46.761689Z 1234 [Warning] [MY-010055] [Server] IP address '154.209.18.128' could not be resolved: Name or service not known
+2019-06-27T15:30:54.805303Z 1254 [Warning] [MY-010055] [Server] IP address '222.186.160.240' could not be resolved: Name or service not known
+2019-06-27T17:00:05.561698Z 1466 [Warning] [MY-010057] [Server] IP address '92.118.160.49' has been resolved to the host name '92.118.160.49.netsystemsresearch.com', which resembles IPv4-address itself.
+2019-06-27T17:11:36.320418Z 1467 [Warning] [MY-010055] [Server] IP address '139.130.147.140' could not be resolved: Name or service not known
+2019-06-27T19:50:38.061585Z 1723 [Warning] [MY-010055] [Server] IP address '106.12.223.226' could not be resolved: Name or service not known
+2019-06-27T19:50:40.397455Z 1724 [Warning] [MY-010055] [Server] IP address '106.12.223.227' could not be resolved: Name or service not known
+2019-06-27T19:50:56.897934Z 1731 [Warning] [MY-010055] [Server] IP address '106.12.223.224' could not be resolved: Name or service not known
+2019-06-27T19:51:18.869377Z 1750 [Warning] [MY-010055] [Server] IP address '106.12.223.225' could not be resolved: Name or service not known
+2019-06-27T23:08:06.066746Z 2052 [Warning] [MY-010055] [Server] IP address '221.229.174.226' could not be resolved: Name or service not known
+2019-06-28T05:52:21.977210Z 2126 [Warning] [MY-010055] [Server] IP address '49.234.54.186' could not be resolved: Name or service not known
+2019-06-28T06:26:20.416658Z 2187 [Warning] [MY-010055] [Server] IP address '119.28.188.185' could not be resolved: Name or service not known
+2019-06-28T10:10:48.044198Z 2188 [Warning] [MY-010055] [Server] IP address '218.61.16.2' could not be resolved: Name or service not known
+2019-06-28T13:43:58.321689Z 2192 [Warning] [MY-010055] [Server] IP address '222.186.174.89' could not be resolved: Name or service not known
+2019-06-28T15:50:53.053787Z 2193 [Warning] [MY-010055] [Server] IP address '66.79.173.11' could not be resolved: Name or service not known
+2019-06-28T16:51:30.009221Z 2198 [Warning] [MY-010055] [Server] IP address '170.130.187.42' could not be resolved: Name or service not known
+2019-06-28T18:20:39.809791Z 2204 [Warning] [MY-010055] [Server] IP address '112.244.229.116' could not be resolved: Name or service not known
+2019-06-28T21:35:25.562119Z 2256 [Warning] [MY-010056] [Server] Host name 'winsrv2003x86-chinese.vhd.gz-s-3vcpu-1gb-ams3-01' could not be resolved: Name or service not known
+2019-06-29T02:50:32.146799Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 38022
+2019-06-29T02:50:32.229818Z 0 [ERROR] [MY-012681] [InnoDB] mmap(137363456 bytes) failed; errno 12
+2019-06-29T02:50:32.229886Z 1 [ERROR] [MY-012956] [InnoDB] Cannot allocate memory for the buffer pool
+2019-06-29T02:50:32.229918Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2019-06-29T02:50:32.230023Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2019-06-29T02:50:32.230263Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2019-06-29T02:50:32.231708Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-06-29T02:50:32.237159Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-06-29T03:15:42.075082Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 995
+2019-06-29T03:15:46.892590Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-06-29T03:15:47.048695Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-06-29T03:15:47.647902Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-06-29T03:15:47.786903Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.16'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2019-06-29T03:15:48.018130Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/run/mysqld/mysqlx.sock' bind-address: '::' port: 33060
+2019-06-29T03:52:05.290716Z 14 [Warning] [MY-010055] [Server] IP address '66.79.173.11' could not be resolved: Name or service not known
+2019-06-29T04:38:31.560996Z 20 [Warning] [MY-010055] [Server] IP address '116.255.173.169' could not be resolved: Name or service not known
+2019-06-29T06:40:40.857179Z 69 [Warning] [MY-010055] [Server] IP address '183.2.181.247' could not be resolved: Name or service not known
+2019-06-29T07:14:06.533887Z 78 [Warning] [MY-010055] [Server] IP address '218.61.16.164' could not be resolved: Name or service not known
+2019-06-29T08:30:00.178271Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 3314
+2019-06-29T08:30:00.256058Z 0 [ERROR] [MY-012681] [InnoDB] mmap(137363456 bytes) failed; errno 12
+2019-06-29T08:30:00.256127Z 1 [ERROR] [MY-012956] [InnoDB] Cannot allocate memory for the buffer pool
+2019-06-29T08:30:00.256161Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2019-06-29T08:30:00.256209Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2019-06-29T08:30:00.256396Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2019-06-29T08:30:00.257621Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-06-29T08:30:00.262693Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-06-29T08:33:16.751443Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 988
+2019-06-29T08:33:19.288446Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-06-29T08:33:19.335403Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-06-29T08:33:19.424782Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-06-29T08:33:19.486252Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.16'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2019-06-29T08:33:19.519635Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/run/mysqld/mysqlx.sock' bind-address: '::' port: 33060
+2019-06-29T10:10:18.910458Z 455 [Warning] [MY-010056] [Server] Host name 'dns243.online.tj.cn' could not be resolved: Name or service not known
+2019-06-29T11:14:01.684160Z 456 [Warning] [MY-010055] [Server] IP address '199.19.225.234' could not be resolved: Name or service not known
+2019-06-29T11:58:25.665425Z 463 [Warning] [MY-010055] [Server] IP address '122.195.166.6' could not be resolved: Name or service not known
+2019-06-29T12:11:08.896885Z 515 [Warning] [MY-010055] [Server] IP address '71.6.232.5' could not be resolved: Name or service not known
+2019-06-29T14:38:15.935473Z 516 [Warning] [MY-010056] [Server] Host name 'zg-0301e-2.stretchoid.com' could not be resolved: Name or service not known
+2019-06-29T15:17:05.596392Z 517 [Warning] [MY-010055] [Server] IP address '27.50.165.50' could not be resolved: Name or service not known
+2019-06-29T16:44:57.786896Z 564 [Warning] [MY-010055] [Server] IP address '110.172.221.237' could not be resolved: Name or service not known
+2019-06-29T22:54:00.357256Z 588 [Warning] [MY-010055] [Server] IP address '66.79.173.11' could not be resolved: Name or service not known
+2019-06-30T05:35:51.738429Z 672 [Warning] [MY-010055] [Server] IP address '58.218.66.92' could not be resolved: Name or service not known
+2019-06-30T09:49:39.893278Z 787 [Warning] [MY-010056] [Server] Host name 'hostby.fcloud.biz' could not be resolved: Name or service not known
+2019-06-30T13:29:45.411599Z 802 [Warning] [MY-010055] [Server] IP address '124.88.112.229' could not be resolved: Name or service not known
+2019-06-30T13:29:49.244472Z 803 [Warning] [MY-010055] [Server] IP address '112.117.33.105' could not be resolved: Name or service not known
+2019-06-30T13:45:54.081230Z 804 [Warning] [MY-010055] [Server] IP address '222.186.174.72' could not be resolved: Name or service not known
+2019-06-30T15:31:17.950176Z 934 [Warning] [MY-010055] [Server] IP address '66.79.173.8' could not be resolved: Name or service not known
+2019-06-30T17:14:32.177278Z 952 [Warning] [MY-010056] [Server] Host name '428bb.rederatural.com' could not be resolved: Name or service not known
+2019-06-30T19:14:09.632358Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 14831
+2019-06-30T19:14:12.964318Z 0 [System] [MY-010229] [Server] Starting crash recovery...
+2019-06-30T19:14:13.001971Z 0 [System] [MY-010232] [Server] Crash recovery finished.
+2019-06-30T19:14:13.419569Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2019-06-30T19:14:15.134325Z 0 [System] [MY-010931] [Server] /usr/sbin/mysqld: ready for connections. Version: '8.0.16'  socket: '/var/lib/mysql/mysql.sock'  port: 3306  MySQL Community Server - GPL.
+2019-06-30T19:14:15.471371Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Socket: '/var/run/mysqld/mysqlx.sock' bind-address: '::' port: 33060
+2019-06-30T19:25:27.117251Z 8 [Warning] [MY-010056] [Server] Host name 'hostby.fcloud.biz' could not be resolved: Name or service not known
+2019-06-30T21:55:59.750879Z 13 [Warning] [MY-010055] [Server] IP address '112.244.229.116' could not be resolved: Name or service not known
+2019-06-30T22:35:29.424215Z 53 [Warning] [MY-010058] [Server] Hostname 'border.census.shodan.io' does not resolve to '198.20.87.98'.
+2019-06-30T22:57:29.570191Z 54 [Warning] [MY-010055] [Server] IP address '125.64.94.220' could not be resolved: Name or service not known
+2019-07-01T01:24:35.333195Z 59 [Warning] [MY-010056] [Server] Host name 'zg-0326a-11.stretchoid.com' could not be resolved: Name or service not known
+2019-07-01T01:40:02.977307Z 61 [Warning] [MY-010055] [Server] IP address '183.2.181.247' could not be resolved: Name or service not known
+2019-07-01T01:41:20.506439Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 18254
+2019-07-01T01:41:20.834202Z 0 [ERROR] [MY-012681] [InnoDB] mmap(137363456 bytes) failed; errno 12
+2019-07-01T01:41:20.834312Z 1 [ERROR] [MY-012956] [InnoDB] Cannot allocate memory for the buffer pool
+2019-07-01T01:41:20.834353Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2019-07-01T01:41:20.834406Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2019-07-01T01:41:20.834615Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2019-07-01T01:41:20.835551Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-07-01T01:41:20.836712Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-01T01:52:05.604596Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 18482
+2019-07-01T01:52:06.051868Z 0 [ERROR] [MY-012681] [InnoDB] mmap(137363456 bytes) failed; errno 12
+2019-07-01T01:52:06.052016Z 1 [ERROR] [MY-012956] [InnoDB] Cannot allocate memory for the buffer pool
+2019-07-01T01:52:06.052066Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2019-07-01T01:52:06.052146Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2019-07-01T01:52:06.052373Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2019-07-01T01:52:06.104368Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-07-01T01:52:06.105602Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-01T02:00:05.447563Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 18879
+2019-07-01T02:00:05.746209Z 0 [ERROR] [MY-012681] [InnoDB] mmap(137363456 bytes) failed; errno 12
+2019-07-01T02:00:05.746398Z 1 [ERROR] [MY-012956] [InnoDB] Cannot allocate memory for the buffer pool
+2019-07-01T02:00:05.746468Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2019-07-01T02:00:05.746528Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2019-07-01T02:00:05.746789Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2019-07-01T02:00:05.764452Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-07-01T02:00:05.789412Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-01T02:03:21.869275Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 19117
+2019-07-01T02:03:22.618515Z 0 [ERROR] [MY-012681] [InnoDB] mmap(137363456 bytes) failed; errno 12
+2019-07-01T02:03:22.618618Z 1 [ERROR] [MY-012956] [InnoDB] Cannot allocate memory for the buffer pool
+2019-07-01T02:03:22.618659Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2019-07-01T02:03:22.618714Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2019-07-01T02:03:22.618930Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2019-07-01T02:03:22.645454Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-07-01T02:03:22.646642Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-01T02:06:12.721384Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 19327
+2019-07-01T02:06:15.444880Z 0 [ERROR] [MY-012681] [InnoDB] mmap(137363456 bytes) failed; errno 12
+2019-07-01T02:06:15.444955Z 1 [ERROR] [MY-012956] [InnoDB] Cannot allocate memory for the buffer pool
+2019-07-01T02:06:15.444992Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2019-07-01T02:06:15.445045Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2019-07-01T02:06:15.445306Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2019-07-01T02:06:15.473401Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-07-01T02:06:15.480932Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-01T02:11:51.350848Z 0 [ERROR] [MY-000058] [Server] Unknown suffix 's' used for variable 'server_id' (value 'slave1').
+2019-07-01T02:11:51.350884Z 0 [ERROR] [MY-000077] [Server] /usr/sbin/mysqld: Error while setting value 'slave1' to 'server_id'.
+2019-07-01T02:11:51.391621Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-07-01T02:11:51.391727Z 0 [Note] [MY-010120] [Server] Binlog end
+2019-07-01T02:15:23.801307Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 19920
+2019-07-01T02:15:26.455153Z 0 [ERROR] [MY-012681] [InnoDB] mmap(137363456 bytes) failed; errno 12
+2019-07-01T02:15:26.455270Z 1 [ERROR] [MY-012956] [InnoDB] Cannot allocate memory for the buffer pool
+2019-07-01T02:15:26.455315Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2019-07-01T02:15:26.455375Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2019-07-01T02:15:26.455627Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2019-07-01T02:15:26.484282Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-07-01T02:15:26.496194Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
+2019-07-01T02:19:16.741004Z 0 [System] [MY-010116] [Server] /usr/sbin/mysqld (mysqld 8.0.16) starting as process 20172
+2019-07-01T02:19:19.101256Z 0 [ERROR] [MY-012681] [InnoDB] mmap(137363456 bytes) failed; errno 12
+2019-07-01T02:19:19.101335Z 1 [ERROR] [MY-012956] [InnoDB] Cannot allocate memory for the buffer pool
+2019-07-01T02:19:19.101374Z 1 [ERROR] [MY-012930] [InnoDB] Plugin initialization aborted with error Generic error.
+2019-07-01T02:19:19.101428Z 1 [ERROR] [MY-010334] [Server] Failed to initialize DD Storage Engine
+2019-07-01T02:19:19.101628Z 0 [ERROR] [MY-010020] [Server] Data Dictionary initialization failed.
+2019-07-01T02:19:19.129581Z 0 [ERROR] [MY-010119] [Server] Aborting
+2019-07-01T02:19:19.141411Z 0 [System] [MY-010910] [Server] /usr/sbin/mysqld: Shutdown complete (mysqld 8.0.16)  MySQL Community Server - GPL.
